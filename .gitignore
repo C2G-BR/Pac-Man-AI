@@ -1,0 +1,8 @@
+**/__pycache__/
+**/img/
+**/data/
+**/models/
+**/logs/
+**/img/
+**/tensorboard/
+**/videos/
